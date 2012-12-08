@@ -4,7 +4,7 @@ author :
   email: athanhcong@gmail.com
 
 # Configuration
-permalink:   /:year/:month/:title
+permalink:   /:title
 production_url : http://kong.vn
 
 # Engine
