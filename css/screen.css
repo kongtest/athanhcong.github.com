@@ -17,21 +17,56 @@ html, body {
 
 body {
   background-color: white;
-  font: 13.34px helvetica, arial, clean, sans-serif;
-  *font-size: small;
-  text-align: center;
+  font-size: 15px;
+  font-family: proxima-nova, sans-serif;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-size: 100%;
+  color: #3A3A3A;
 }
 
 h1 {
-  margin-bottom: 1em;
+  font-size:22px;
+  font-weight:700;
+  margin-bottom: 1em;  
+}
+
+h2 {
+  font-size:20px;
+  font-weight:600;
+  margin-top:20px;
+}
+
+h3 {
+  font-size:19px;
+  font-weight:600;
+}
+
+h4 {
+  font-size:17px;
+  font-weight:600;
+  color:#555;
+}
+
+h5 {
+  color:#555;
+  font-size:17px;
+}
+
+h6 {
+  font-size:16px;
+  font-weight:600;
+  color:#555;
 }
 
 p {
-  margin: 1em 0;
+  font-size:15px;
+  line-height:23px;
+  margin-top:20px;
+  margin-bottom:20px;
+  color:#4d4d4d;
+  font-family:proxima-nova,sans-serif;
+  font-weight:400;
 }
 
 a {
@@ -45,6 +80,7 @@ a:hover {
 a:visited {
   color: #a0a;
 }
+
 
 table {
   font-size: inherit;
@@ -87,13 +123,25 @@ ul.posts {
 }
 
 .title {
-  color: #a00;
+  color: #1D8709;
   font-weight: bold;
   margin-bottom: 2em;
 }
 
+.title .logo {
+  width: 100px;
+  border-radius: 50%;
+  display: float;
+}
+
+.title span {
+  color: #aaa;
+  font-weight: lighter;
+  font-size: smaller;
+  display: block;
+}
   .site .title a {
-    color: #a00;
+    color: #1D8709;
     text-decoration: none;
   }
 

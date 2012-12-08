@@ -1,2 +1,12 @@
+# About
+author :
+  name : KONG
+  email: athanhcong@gmail.com
+
+# Configuration
+permalink:   /:year/:month/:title
+production_url : http://kong.vn
+
+# Engine
 markdown: rdiscount
 pygments: true
