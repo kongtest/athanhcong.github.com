@@ -2,9 +2,10 @@
 layout: post
 title: Steve Jobs's Legacy
 tags:
-- Meaning of Life
-- Startup
-- Technology
+ Meaning of Life
+ Startup
+ Technology
+ 
 ---
 I finished Steve Jobs book a 2 days ago. Then starting to think about what is the best thing he left to human after he gone.
 
