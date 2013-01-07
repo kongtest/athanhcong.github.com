@@ -5,8 +5,7 @@ tag: movie, startup, life
 
 ---
 
-<object width="640" height="385"><param name="movie" value="http://www.youtube.com/v/Iz13cWUokOs&hl=en_US&start=9855"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/Iz13cWUokOs&hl=en_US&start=9855" type="application/x-shockwave-flash" allowscriptaccess="always" width="640" height="385"></embed></object>
-
+<object width="640" height="385"><param name="movie" value="http://www.youtube.com/v/Iz13cWUokOs&hl=en_US&amp;start=9855&amp;version=3"></param><param name="allowFullScreen" value="true"><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/Iz13cWUokOs&hl=en_US&start=9855" type="application/x-shockwave-flash" allowscriptaccess="always" width="640" height="385" allowfullscreen="true"></embed></object>
 
 **Les Miserables (2012)** - the movie - is showing in cinemar, that I recommend to watch. The story is great, the musical is so amazing, that make me search for [the musical concert version](http://youtu.be/Iz13cWUokOs) to watch it again today.
 
