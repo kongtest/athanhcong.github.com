@@ -18,7 +18,3 @@ That is the thing I realized, if you ever find something to fight for, to work w
 
 Build something large enough that you are proud to be part of it,
 <small>not something, too small, that you want to take them all.</small>
-
-![Be Larger Than Yourself](/images/2013/be-better-than-yourself.png)
-
-[_Photo Source_](http://www.apieceofmonologue.com/2010/09/literature-philosophy-quotes-desktop.html)
