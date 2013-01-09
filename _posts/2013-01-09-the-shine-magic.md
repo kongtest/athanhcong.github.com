@@ -23,13 +23,13 @@ I started by listing some of the options:
 
 - NFC, not on iPhone yet.
 
-After searching around I found a *very posible answer*: Transfer data through **Capacitive** touch screen.
+After searching around I found a *very possible answer*: Transfer data through **Capacitive** touch screen.
 
 Capacitive touch screen uses the fact that in our body have a small electric current. When we touch, the screen "recognize this electricity". The good thing is that we can fake a finger touch. Using a device to fake the touch, we can send a series of signals as we want, to the iPhone app.
 
 We also need a protocol (aka rules) for transfering data. The simplest way is using binary, a series of 0 and 1: 010000111
 
-The iPhone application will receive these signals, decode it to meaningful data, and finally visual display your result: "You did 12 points today, you are super man!" :D
+The iPhone application will receive these signals, decode it to meaningful data, and finally visually display your result: _"You did 12 points today, you are super man!"_ :D
 
 If you even want to build a new Shine, read this [paper](http://www.winlab.rutgers.edu/~gruteser/papers/tammob12.pdf). I haven't finished it, but it's worth to cite it here. 
 
