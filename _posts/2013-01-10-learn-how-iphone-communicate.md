@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Learn how iPhone communicates external environment
+title: Learn how iPhone communicates with external environment
 tag: technology, iphone, sensor, communicate, hardware
 
 ---
