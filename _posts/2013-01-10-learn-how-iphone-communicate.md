@@ -5,9 +5,7 @@ tag: technology, iphone, sensor, communicate, hardware
 
 ---
 
-Long time ago, I asked myself how many sensors iPhone has? I could list unsurely a fews, but asking for the total, I don't know. Later, to chill down my curiousity, I checked the information, but today, ask me again, I'm still uncertain.
-
-
+Long time ago, I asked myself how many sensors iPhone has? I could list unsurely a fews, but asking for the total, I don't know.
 
 So the answer is iPhone has [5 sensors](http://ipod.about.com/od/ipodiphonehardwareterms/qt/iphone-sensors.htm): Proximity sensor, Motion sensor, Ambient Light sensor, Moisture sensor, iPhone 4 Gyroscope
 
@@ -49,3 +47,5 @@ And I believe that understanding how the iPhone really communicates with our wor
 
 
 See you on my next posts about iPhone's Sensors, Wireless Connections, Hardware Connections...
+
+PS: If you have some interesting links about the topic, [send me](http://twitter.com/home?status=@athanhcong). I would be very appreciated!
