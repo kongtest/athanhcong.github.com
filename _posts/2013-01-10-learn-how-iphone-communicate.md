@@ -41,7 +41,7 @@ Or how Bump can help people share business card so easily. Both of you hold the 
 
 And like Alan Kay said: **"people who are really serious about software should make their own hardware"**.
 
-I write iPhone software for years, time for learning a bit about its hardware, too.
+I write iPhone software for years, time for "learning a bit" about its hardware, too.
 
 And I believe that understanding how the iPhone really communicates with our world, will help to write a much better software than I do right now: focusing mainly only on the Touch Screen sensor.
 
