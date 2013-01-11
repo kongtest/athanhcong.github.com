@@ -31,7 +31,7 @@ We also need a protocol (aka rules) for transfering data. The simplest way is us
 
 The iPhone application will receive these signals, decode it to meaningful data, and finally visually display your result: _"You did 12 points today, you are super man!"_ :D
 
-If you even want to build a new Shine, read this [paper](http://www.winlab.rutgers.edu/~gruteser/papers/tammob12.pdf). I haven't finished it, but it's worth to cite it here. 
+If you even **want to build a new Shine, read this [paper](http://www.winlab.rutgers.edu/~gruteser/papers/tammob12.pdf)**. I haven't finished it, but it's worth to cite it here. 
 
 Now, I'm thinking about a magic ring, which I can point to the screen to unlock my laptop or iPhone. No password, nor PIN code. Simple! Haha :)
 
