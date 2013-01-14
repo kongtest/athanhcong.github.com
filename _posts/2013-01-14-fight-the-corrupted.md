@@ -12,13 +12,13 @@ Two days ago, Hacker News had a flood of news about the suicide of a 26-years-ol
 Aaron is described as a very talented computer engineering. His spreading tragedy made me start to archive some of his blog's posts for reading later. And today, after reading one first post, I decided to investigate more about this man: *Why this intelligent guy committed suicide? What did he fighting for?*
 
 ---
-Aaron was fighting to challenge an unfair system: he believed that public funded research should be able to easily accessed by public. However, it's the politics, and their ridiculous miscarriage of justice pushed this young man to an end.
+Aaron was fighting to challenge an unfair system: he believed that public funded research should be able to be easily accessed by public. However, it's the politics, and their ridiculous miscarriage of justice pushed this young man to an end.
 
-For his "seem-to-be-innocent" action, the lawyer put him to face a fine $1 million and 35 years in prison. After for more than a year fighting, he ended his life.
+For his "seem-to-be-innocent" action, the lawyer demand him a fine $1 million and 35 years in prison. After for more than a year fighting, he ended his life.
 
 Why people are so upset about this?
 
-He's 26! People want to speak out loud one important thing: the system we are living are corrupted. People with money and power can sue you anything in law, they make the case so complex that you do not have much money to defend yourself, and finally end your life in a huge law fee. Even if you win in court, you're still *die* financially.
+He's 26! And people want to speak out loud one important thing: the system we are living are corrupted. People with money and power can sue you anything in law, they make the case so complex that you do not have much money to defend yourself, and finally end your life in a huge law fee. Even if you win in court, you're still *die* financially.
 
 Aaron, who fighted for real justice, is got killed by the **offical justice**.
 
@@ -33,9 +33,10 @@ It's [a post](http://www.aaronsw.com/weblog/tdk) about the movie The Dark Knight
 
 Aaron's post even helps me understand the movie in a deeper level!
 
-The article explain what Batman and Harvey Dent is fighting for? The criminals, in a corrupted system! The 2 heroes using different ways to attack the unjustice: One out of law - Batman and one by using law. However, the political system they are fighting for is corrupted, Harvey Dent lost his soul, and became Two Face.
+The article explain what Batman and Harvey Dent is fighting for? The criminals, in a corrupted system! The 2 heroes using different ways to attack the unjustice: One out of law - Batman and one by using law - Dent. However, the political system they are fighting for is corrupted. At the end Harvey Dent lost his soul, and became Two Face. Batman lived in sorrow for years.
 
-I understand what Aaron is fighting for, the justice in a corrupted system. And his story told me that, **it's not only in a movie**, like Batman, where drama and tragedy happens when people fight for justice. **In our real & very current life, there has people are fighting for justice, and tragedy is still happening.**
+I understand what Aaron is fighting for, the justice in a corrupted system. And his story told me that, it's **not only in a movie**, like Batman, where drama and tragedy happens when people fight for justice. **In our real & very current life, there has people are fighting for justice, and tragedy is still happening.**
+
 
 
 Read more:
