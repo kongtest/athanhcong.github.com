@@ -1,14 +1,17 @@
 ---
 layout: post
-title: The fighting to the corrupted system: Aaron Swartz
+title: The fighting to the corrupted system - Aaron Swartz
 tag: technology, iphone, sensor, communicate, hardware
 
 ---
+
+![Aaron - Source: http://www.washingtonpost.com/blogs/wonkblog/wp/2013/01/12/aaron-swartz-american-hero/](http://www.washingtonpost.com/blogs/wonkblog/files/2013/01/aaron-swartz.jpg)
 
 Two days ago, Hacker News had a flood of news about the suicide of a 26-years-old talented man, Aaron Swartz. I don't know the man before, however I was so surprised because this is the second time I saw an event like this in Hacker News. The first time was when Steve Jobs passed away, more than a year ago.
 
 Aaron is described as a very talented computer engineering. His spreading tragedy made me start to archive some of his blog's posts for reading later. And today, after reading one first post, I decided to investigate more about this man: *Why this intelligent guy committed suicide? What did he fighting for?*
 
+---
 Aaron was fighting to challenge an unfair system: he believed that public funded research should be able to easily accessed by public. However, it's the politics, and their ridiculous miscarriage of justice pushed this young man to an end.
 
 For his "seem-to-be-innocent" action, the lawyer put him to face a fine $1 million and 35 years in prison. After for more than a year fighting, he ended his life.
