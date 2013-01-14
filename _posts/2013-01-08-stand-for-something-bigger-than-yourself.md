@@ -11,7 +11,7 @@ tag: movie, startup, life
 
 Furthermore, there has one more thing, that makes me write about Les Miserables: I was so thrill how magnificent the stage is! You see, there has hundred of people in the stage. Each of them do different jobs, but somehow, they all match together in an amazing musical party. I had many WOW moments, I feel admire the director, who have the ability to put together such complex things.
 
-I also realize is that, in this musical party, everyone has their talent and shines their own way. Normally in a performance, the main actor and actress will get all credits. Here in Les Miserables, everyone doing such a great job, that I apprecite everyone of the team. The total effect is so amazing that each person, although highly talented, can not create themself alone. Here, the total is much greater than the sum of each parts.
+I also realize is that, in this musical party, everyone has their talent and shines their own way. Normally in a performance, the main actor and actress will get all credits. Here in Les Miserables, everyone doing such a great job, that I appreciate everyone of the team. The total effect is so amazing that each person, although highly talented, can not create themself alone. Here, the total is much greater than the sum of each parts.
 
 That is the thing I realized, if you ever find something to fight for, to work with, remember to **stand for something larger than yourself**.
 
