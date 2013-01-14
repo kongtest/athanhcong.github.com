@@ -35,7 +35,7 @@ Aaron's post even helps me understand the movie in a deeper level!
 
 The article explain what Batman and Harvey Dent is fighting for? The criminals, in a corrupted system! The 2 heroes using different ways to attack the unjustice: One out of law - Batman and one by using law - Dent. However, the political system they are fighting for is corrupted. At the end Harvey Dent lost his soul, and became Two Face. Batman lived in sorrow for years.
 
-I understand what Aaron is fighting for, the justice in a corrupted system. And his story told me that, it's **not only in a movie**, like Batman, where drama and tragedy happens when people fight for justice. **In our real & very current life, there has people are fighting for justice, and tragedy is still happening.**
+What Aaron is fighting for? the justice and in a corrupted system. And his story told me that, it's **not only in a movie**, like Batman, where drama and tragedy happens when people fight for justice. **In our real & very current life, there has people are fighting for justice, and tragedy is still happening.**
 
 
 
@@ -46,3 +46,4 @@ Read more:
 * From a [lawyer view](http://lessig.tumblr.com/post/40347463044/prosecutor-as-bully) on how Aaron's case is a miscarriage of justice.
 * Anonymous hacked MIT website and left [a tribute message](http://bosslee.co/post/40503263503/a-brief-message-from-anonymous).
 * And you want to see how the current system is corrupted. Watch [Inside Jobs (2010)](http://www.imdb.com/title/tt1645089/)
+
