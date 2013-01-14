@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The fighting to the corrupted system - Aaron Swartz
+title: The fighting against the corrupted system - Aaron Swartz
 tag: technology, iphone, sensor, communicate, hardware
 
 ---
@@ -35,7 +35,7 @@ Aaron's post even helps me understand the movie in a deeper level!
 
 The article explain what Batman and Harvey Dent is fighting for? The criminals, in a corrupted system! The 2 heroes using different ways to attack the unjustice: One out of law - Batman and one by using law. However, the political system they are fighting for is corrupted, Harvey Dent lost his soul, and became Two Face.
 
-I understand what Aaron is fighting to, the unjustice part in our system. And his story told me that, **it's not only in a movie**, like Batman, where drama and tragedy happens when people fight for justice. **In our real & very current life, there has people are fighting for justice, and tragedy is still happening.**
+I understand what Aaron is fighting for, the justice in a corrupted system. And his story told me that, **it's not only in a movie**, like Batman, where drama and tragedy happens when people fight for justice. **In our real & very current life, there has people are fighting for justice, and tragedy is still happening.**
 
 
 Read more:
