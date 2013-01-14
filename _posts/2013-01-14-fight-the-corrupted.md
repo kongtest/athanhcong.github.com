@@ -41,6 +41,7 @@ I understand what Aaron is fighting for, the justice in a corrupted system. And 
 Read more:
 
 * WashingtonPost: [Aaron Swartz, American Hero](http://www.washingtonpost.com/blogs/wonkblog/wp/2013/01/12/aaron-swartz-american-hero/)
+* To understand about [Aaron and the research paper's unjustice](http://www.jerrypournelle.com/chaosmanor/?p=11443), which led him into court.
 * From a [lawyer view](http://lessig.tumblr.com/post/40347463044/prosecutor-as-bully) on how Aaron's case is a miscarriage of justice.
 * Anonymous hacked MIT website and left [a tribute message](http://bosslee.co/post/40503263503/a-brief-message-from-anonymous).
 * And you want to see how the current system is corrupted. Watch [Inside Jobs (2010)](http://www.imdb.com/title/tt1645089/)
