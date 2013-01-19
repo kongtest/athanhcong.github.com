@@ -7,6 +7,8 @@ tag: life, challenge
 
 I'm so happy this morning, so I decide to start this post.
 
+My note, earlier in this morning:
+
 ![](/images/2013/sport-challenge-jan-19.png)
 
 So this make my morning, hopefully make my day better also.
