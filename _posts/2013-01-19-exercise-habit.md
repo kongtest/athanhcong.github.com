@@ -12,6 +12,7 @@ My note, earlier in this morning:
 ![](/images/2013/sport-challenge-jan-19.png)
 
 So this make my morning, hopefully make my day better also.
+
 There month ago, I wrote this:
 
 ![](/images/2013/sport-challenge-start.png)
