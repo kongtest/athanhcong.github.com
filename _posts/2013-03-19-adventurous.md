@@ -7,7 +7,7 @@ tag: startup,
 
 People I meet in Singapore always want to ask me how do I feel living in Singapore? I usually say I like it, the working environment here is very good. Today I tell you the full story of my last year in Singapore, and how I like it.
 
-I came to Singapore with the eagerness to travel. A year ago, I decided that I need to travel. I'm ambitious, I'm young but I don't know what to do with these energy, so traveling is the answer.
+I came to Singapore with the eagerness to travel. A year ago, I decided that I need to travel. I'm ambitious, I'm young but I don't know what to do with this energy, so traveling is the answer.
 
 Singapore is very different with Vietnam, it likes chaos vs well-managed. Living standard here is higher. I still feel how eager I felt when I just came here. How I make [friends at the first day](http://kong.vn/ngay-dau-o-singapore/), and accept to go for a picnic with them to one of the farthest island of the country, just because I believe Singapore is safer.
 
@@ -45,4 +45,4 @@ And I believe failure is not the worst thing for me now. What gonna kill me is t
 Life is unpredictable, and I also have no big plan. Life starts with an adventurous step.
 
 ---
-Deep thanks to family and friends, thanks Yến, Bjorn, Wayne, Bryan, Darrell and all buddies in Plugin@Blk71 for my awesome time here. Love you all!
+Deep thanks to family and friends, thanks Yến, Bjorn, Wayne, Bryan, Darrell and all buddies in [Plugin@Blk71](http://www2.blk71.com/) for my awesome time here. Love you all!
