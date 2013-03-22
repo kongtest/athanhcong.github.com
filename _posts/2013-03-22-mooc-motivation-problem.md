@@ -17,9 +17,9 @@ Start with "Course": teaching naturally is not fun. Self-experience is more fun 
 
 "Online" is a problem. Again, online is bored. Physical offline is more engaged. Outdoor activities around campus is a lot more fun.
 
-"Open" is a problem. Open _means_ it's up to you to learn or drop. It's free. You also can go back any time in future. Do you smell Procastination yet? One of the  first MOOC, Introduction to AI, didn't have this problem is because it's so novel. People even don't know after the course ends: is the content still available on the server?
+"Open" is a problem. Open _means_ it's up to you to learn or drop. It's free. You also can go back any time in future! Do you smell Procastination yet? One of the  first MOOC, Introduction to AI, didn't have this problem is because it's so novel. People even don't know after the course ends: is the content still available on the server?
 
-Last, "Massive" is a problem. Massive means if you drop, no one care about you. Don't expect your teacher or classmate care that you are fall behind.
+Last, "Massive" is a problem. Massive means if you drop, no one care about you. Don't expect your teacher or classmate care that you are falling behind.
 
 Teaching and nudging come together. Education need to be with motivation.
 
