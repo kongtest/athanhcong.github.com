@@ -21,6 +21,6 @@ Start with "Course": teaching naturally is not fun. Self-experience is more fun 
 
 Last, "Massive" is a problem. Massive means if you drop, no one care about you. Don't expect your teacher or classmate care that you are falling behind.
 
-Teaching and nudging come together. Education need to be with motivation.
+Teaching and nudging come together. Education needs to be with motivation.
 
-PS: And we, the team behinds [Challenge App](https://www.facebook.com/appcenter/challenge-app), are fighting to help.
+PS: And we, the team behinds [Challenge App](https://www.facebook.com/appcenter/challenge-app), are fighting to help!
