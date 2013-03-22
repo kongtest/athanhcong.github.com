@@ -7,7 +7,7 @@ tag: startup,
 
 This morning read this title: ["The dirty little secret of online learning: Students are bored and dropping out"](http://qz.com/65408/the-dirty-little-secret-of-online-learning-students-are-bored-and-dropping-out/). People are spending billion money to research Why?
 
-I [learned and finished one of the first MOOC](http://kong.vn/ai-class-160k-students/). Then also, I tried to learn more following courses, but haven't finished any other.
+I have same problem! I [learned and finished one of the first MOOC](http://kong.vn/ai-class-160k-students/). Then also, I tried to learn more following courses, but haven't finished any other.
 
 To me, MOOC or Massive Open Online Course has motivation problem from each of its words: "Massive", "Open", "Online", "Course"
 
