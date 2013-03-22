@@ -7,7 +7,7 @@ tag: startup,
 
 This morning read this title: ["The dirty little secret of online learning: Students are bored and dropping out"](http://qz.com/65408/the-dirty-little-secret-of-online-learning-students-are-bored-and-dropping-out/). People are spending billion money to research Why?
 
-I learned and finished the first ever MOOC. Then also, I tried to learn more following courses, but haven't finished any other.
+I [learned and finished the first ever MOOC](http://kong.vn/ai-class-160k-students/). Then also, I tried to learn more following courses, but haven't finished any other.
 
 To me, MOOC or Massive Open Online Course has motivation problem from each of its words: "Massive", "Open", "Online", "Course"
 
@@ -23,4 +23,4 @@ Last, "Massive" is a problem. Massive means if you drop, no one care about you. 
 
 Teaching and nudging come together. Education need to be with motivation.
 
-PS: And we, the team behinds Challenge App, are fighting to help.
+PS: And we, the team behinds [Challenge App](https://www.facebook.com/appcenter/challenge-app), are fighting to help.
