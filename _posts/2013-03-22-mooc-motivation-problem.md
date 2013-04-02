@@ -24,3 +24,5 @@ Last, "Massive" is a problem. Massive means if you drop, no one care about you. 
 Teaching and nudging come together. Education needs to be with motivation.
 
 PS: And we, the team behinds [Challenge App](https://www.facebook.com/appcenter/challenge-app), are fighting to help!
+
+PPS: Join our small discusion [here](https://www.facebook.com/athanhcong/posts/504728549563593).
