@@ -1,21 +1,19 @@
 ---
 layout: post
-title: Choosing Navigation UI for your app: Tab Bar vs Sidebar?
+title: Choosing Navigation UI for your app. Tab Bar vs Sidebar?
 tag: startup, ui, ux, ios, navigation
 
 ---
-To use Tab Bar or to use Sidebar, that is the question?
+_To use Tab Bar or to use Sidebar, that is the question?_
 
 Tab Bar navigation is a standard navigation in iOS, which can be found in Twitter app or Instagram app. While Sidebar navigation is a newer trend, you can find in popular app like Facebook or Path.
 
 ![](/images/2013/instagram-tabbar.png)
-![](/images/2013/twitter-tabbar.png)
 ![](/images/2013/facebook-sidebar.png)
-![](/images/2013/path-sidebar.png)
 
-It's interesting that 4 apps above are all social apps, but they have different ways to present available functions in the app  How did each apps choose their UI? If you are building your new iOS app, which kind of navigation will you use?
+It's interesting that 4 apps above are all social apps, but they have different ways to present available functions in the app.  How did each app choose their UI? If you are building your new iOS app, which kind of navigation will you use?
 
-These are some ideas I learnt when making choice for my Challenge App.
+Let's consider some of the difference between these 2 UI patterns:
 
 # Space taken: Tab Bar vs Sidebar: 0 - 1
 We start with an obvious element: Sidebar hides the navigation options to the left side, so it save lots of space for main content. On other hand, Tab Bar always takes some space at the bottom of you screen.
@@ -27,7 +25,10 @@ As a result of taking space, Tab Bar presents more functional options users can 
 
 If your app have more than 1 functions that can be used daily, Tabbar is a good choice.
 
-From here, I start to consider that Tabbar is more suitable for mobile-first app, while Sidebar is more suitable for consuming app (app which is a consuming version of another web version). I will talk more about this later...
+From here, I start to consider that __Tabbar is more suitable for mobile-first app, while Sidebar is more suitable for consuming app__ (app which is a consuming version of another web version). I will talk more about this later...
+
+![](/images/2013/path-sidebar.png)
+![](/images/2013/twitter-tabbar.png)
 
 # Accessibility (Physically and Usability): Tab Bar vs Sidebar: 1 - 0
 Is it easy for users to select the menu in Tab Bar and Sidebar?
@@ -35,6 +36,7 @@ Is it easy for users to select the menu in Tab Bar and Sidebar?
 Due to the way we hold our phone, Tab Bar which is placed at the bottom of the screen, make it easier to touch. All Tabs are visible, so it's even faster. 
 
 With Sidebar, it's much harder for your finger to reach the Sidebar button at top-left corner. There usually have many options to choose after that, check Facebook or Path app. It requires lots of thinking for 1 selection.
+
 
 # Getting back: Tab Bar vs Sidebar: 1 - 0
 Is it easy for users to get back to default view, after using the app for a while?
@@ -46,7 +48,7 @@ Now, continue with Facebook app, choose the [i] button in top-right corner, choo
 
 ![](/images/2013/facebook-stack-of-view.png)
 
-To fix this, Sidebar give you ability to swipe to left to access Sidebar, regardless where you are (with some twist in implementation). With this gesture, you don't need to reach your finger to top-left button any more, you only need to swipe.
+To fix this, Sidebar give you ability to swipe to left to access Sidebar, no matter where you are. With this gesture, you don't need to reach your finger to top-left button any more, perform a swipe is much easier. However normal users don't know about this swipe-to-reveal gesture.
 
 With Tab Bar, most of the time, your Tabs will be there for you to select. To navigate back in a stack of view, just touch the same tab twice. This is easier to discover than Sidebar's swipe-to-reveal.
 
@@ -54,16 +56,16 @@ With Tab Bar, most of the time, your Tabs will be there for you to select. To na
 ![](/images/2013/instagram-tab-go-back.png)
 
 # Action button: Tabbar vs Sidebar: 1 - 0
-For some app, creating new content is also as important as consuming content.
+For some app, creating new content is sometime more important as browsing content.
 
-With Instagram app, 1 main reason that people open the app is when they want to share a photo. At some moment, users want to access camera as quickly as posible. Instagram solve that problem with a big button in their Tab Bar. 
+In Instagram app, people open the app when they want to share a photo. At some moment, users want to access camera as quickly as posible. Instagram solve that problem with a big button in their Tab Bar. 
 
 Path app, add their action button at the bottom-right corner. It's a good solution, but it will not give me a firmly feeling like Instagram button.
 
 
 # Summary
-In mobile app, where user experience is very important, it takes you time to decide which UI pattern is suitable for you. Ask yourself which one is natural to use, easy to remember, convienient to access?
+In mobile app, where user experience is very important, it takes you time to decide which UI pattern is suitable for your app, which makes your app natural to use, easy to remember, convienient to access?
 
-If you need a quick reference, I would say that Tab Bar is more suitable for mobile-first (social) app. Where creating content in app is more important than browsing content and you need to show users that you have more than 1 useful features.
+Howerver if you need a quick reference, I would say that Tab Bar is more suitable for mobile-first (social) app. Where creating content in app is more important than browsing content and you need to show users that you have more than 1 useful features.
 
-Sidebar is suitable for consuming app, where content can be create outside the app.
+Sidebar is suitable for consuming app, where content can be created outside the app.
