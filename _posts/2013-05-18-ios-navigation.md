@@ -11,12 +11,12 @@ Tab Bar navigation is a standard navigation in iOS, which can be found in Twitte
 ![](/images/2013/instagram-tabbar.png)
 ![](/images/2013/facebook-sidebar.png)
 
-It's interesting that 4 apps above are all social apps, but they have different ways to present available functions in the app.  How did each app choose their UI? If you are building your new iOS app, which kind of navigation will you use?
+It's interesting that 4 apps above (Twitter, Instagram, Facebook, Path)are all social apps, but they have different ways to present available functions in the app.  How did each app choose their UI? If you are building your new iOS app, which kind of navigation will you use?
 
-Let's consider some of the difference between these 2 UI patterns:
+Let's consider some of the differences between these 2 UI patterns:
 
 # Space taken: Tab Bar vs Sidebar: 0 - 1
-We start with an obvious element: Sidebar hides the navigation options to the left side, so it save lots of space for main content. On other hand, Tab Bar always takes some space at the bottom of you screen.
+It's obvious that sidebar hides the navigation options to the left side, so it save lots of space for main content. On other hand, Tab Bar always takes some space at the bottom of you screen.
 
 Doing Sidebar way, you want to focus users into 1 main view, 1 main action, which usually is scrolling through the feed. Everything else is optional.
 
@@ -33,18 +33,18 @@ From here, I start to consider that __Tabbar is more suitable for mobile-first a
 # Accessibility (Physically and Usability): Tab Bar vs Sidebar: 1 - 0
 Is it easy for users to select the menu in Tab Bar and Sidebar?
 
-Due to the way we hold our phone, Tab Bar which is placed at the bottom of the screen, make it easier to touch. All Tabs are visible, so it's even faster. 
+Due to the way we hold our phone, Tab Bar, which is placed at the bottom of the screen, makes it easier to touch. All Tabs are visible, so it's even faster. 
 
-With Sidebar, it's much harder for your finger to reach the Sidebar button at top-left corner. There usually have many options to choose after that, check Facebook or Path app. It requires lots of thinking for 1 selection.
+With Sidebar, it's much harder for your finger to reach the Sidebar button at top-left corner. There usually have many options to choose after that, check Facebook app. It requires lots of thinking for 1 selection.
 
 
 # Getting back: Tab Bar vs Sidebar: 1 - 0
 Is it easy for users to get back to default view, after using the app for a while?
 
-With Sidebar, it's easy to lose the navigation context, where are you?
-Open Facebook app, open Sidebar, choose Messages and choose any conversation, now you will feel you are in a very strange app.
+With Sidebar, it's easy to lose the navigation context: where are you?
+Open Facebook app, open Sidebar, choose Messages then choose any conversation, now you will feel you are in a very strange app.
 
-Now, continue with Facebook app, choose the [i] button in top-right corner, choose the person profile. You are navigation deeply into a stack of views, how do you get back to the navigation menu? For most of the people I know, they will click [Back] button for a 4 times, to reveal the menu. Lost!
+Then, continue with Facebook app, choose the [i] button in top-right corner, choose the person profile. You are navigating deeply into a stack of views, how do you get back to the Sidebar menu? For most of the people I know, they will click [Back] button for 4 times, to reveal the menu. Lost!
 
 ![](/images/2013/facebook-stack-of-view.png)
 
