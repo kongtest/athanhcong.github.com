@@ -1,1 +1,4 @@
-my new file contents
+---
+layout: nil
+---
+<?xml version="1.0" encod
