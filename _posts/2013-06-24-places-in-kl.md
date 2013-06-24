@@ -28,6 +28,15 @@ Arrive: 16pm
 
 **  
 **
+Berjaya Times Square
+
+1 Jalan Imbi, 55100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia
+
++60 3-2144 9821 \* [timessquarekl.com][1]**  
+**
+
+**  
+**
 
 **  
 **
@@ -48,3 +57,4 @@ Jalan Taylors, Subang Jaya, 47500 Subang Jaya, Selangor, Malaysia
 
 
 [0]: https://maps.google.com/maps?ie=UTF-8&q=Golden+Mile+Complex&fb=1&hq=Golden+Mile+Complex&hnear=0x31da11238a8b9375:0x887869cf52abf5c4,Singapore&cid=0,0,3304893425101850258&ei=cfLHUcmRMIOOrQehvoGQBA&ved=0CMMBEPwSMAc
+[1]: http://timessquarekl.com
