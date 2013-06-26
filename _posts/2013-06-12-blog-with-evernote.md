@@ -15,8 +15,4 @@ I love the simplicity of Jekyll. However, I'm still lazy to starting to write an
   
 "[Blog with Evernote][0]" is the result of my last 30 hours. It does exactly what I want, automatically publish my note into a blog post.
 
-  
-  
-
-
 [0]: http://blogwithevernote.herokuapp.com
