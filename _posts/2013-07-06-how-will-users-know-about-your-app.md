@@ -11,7 +11,7 @@ We did many planning discussion. We questioned what is the benefit of users afte
 These are all very important question, but we haven't think about how users will find out our app? It's pure a marketing point of view. But it awakes me that I didn't have much consider about this before.
 
   
-As I believe that marketing strategy should come from the product itself and because in startup we don't have money for traditional paid marketing. So I think this is a basic question that we should put into product design discussion. Which means we should aims to build a product that people will know about it.
+As I believe that marketing strategy should come from the product itself, so I think this is a basic question that we should put into product design discussion. Which means we should aim to build a product that can market itself.
 
   
 Either in a viral way, words of mouth, social media or press or whatever..., this marketing strategy should be on easy day, don't try to build it first then go to sell later.
