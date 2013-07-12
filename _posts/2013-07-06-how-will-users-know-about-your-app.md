@@ -17,7 +17,7 @@ As I believe that marketing strategy should come from the product itself, so I t
 Either in a viral way, words of mouth, social media or press or whatever..., this marketing strategy should be on easy day, don't try to build it first then go to sell later.
 
   
-"Sell first, sell early, sell often."
+Sell first, sell early, sell often.
 
   
   
